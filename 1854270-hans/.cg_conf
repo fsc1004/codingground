@@ -1,0 +1,1 @@
+{"id":"fortran","ext":"f95","version":"GNU Fortran, GCC v4.8.3","compile":"gfortran -std=f95 somatorio.f95 -o somatorio","execute":"somatorio","preview":"","file":"/home/cg/src/samples/modelo.f95","url":"compile_fortran_online.php","mode":"sql"}
