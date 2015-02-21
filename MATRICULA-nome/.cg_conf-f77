@@ -1,0 +1,1 @@
+{"id":"fortran","ext":"for","version":"GNU Fortran, GCC v4.8.3","compile":"gfortran *.for -o a.out","execute":"a.out","preview":"","file":"/home/cg/src/samples/modelo.for","url":"compile_fortran_online.php","mode":"sql"}
