@@ -1,4 +1,4 @@
 program primeiro
-   Print *, "Primeiro programa"
+   Print *, "Primeiro dos programa"
 end program primeiro
 
