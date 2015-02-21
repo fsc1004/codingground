@@ -1,4 +1,5 @@
 program primeiro
-   Print *, "Primeiro dos programa"
+   print*, "Primeiro dos programa"
+   write(*,*)"Vejamos"
 end program primeiro
 
