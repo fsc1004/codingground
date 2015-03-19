@@ -10,6 +10,7 @@ git config --global user.name 'fsc1004'
 git pull
 git add -A && git commit -m 'atualizado'
 git push origin master
+clear
 echo ''
 echo '----------------------------------------------'
 echo '   Arquivos sincronizados com  repostorio     '
