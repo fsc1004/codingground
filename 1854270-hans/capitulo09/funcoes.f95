@@ -8,7 +8,7 @@ real s
    do i = 1, 10
        print*,'i :',i
        s = soma(float(i),12.3)
-       print*,'soma: ',s
+       print*,'somatorio: ',s
    enddo
 end program
 
