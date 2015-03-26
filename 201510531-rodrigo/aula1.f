@@ -1,0 +1,10 @@
+C234567890
+		PROGRAM AULA_01
+		
+		
+		WRITE(*,*)"Dalhe Grêmio!"
+		
+		
+		
+		STOP "PROGRAMA FINALIZADO"
+		END
