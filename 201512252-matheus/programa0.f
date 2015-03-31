@@ -1,4 +1,4 @@
-1234567890
+c234567890
       program prag0
 	write(*,*)"Oi Mundo"
 	Write(*,*)"Oi Mundo novamente"
